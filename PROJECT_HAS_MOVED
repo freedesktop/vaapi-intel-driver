@@ -1,0 +1,9 @@
+We've consolidated our VAAPI Media software projects upstream onto
+github and have been updating distributions with the new source
+locations.  Changes are in flight.  Next release will be on Github.
+
+Intel-vaapi-driver project has moved to https://github.com/01org/intel-vaapi-driver
+
+Use https://github.com/01org/intel-vaapi-driver/issues/new to file bugs on the
+intel-vaapi-driver github site
+
